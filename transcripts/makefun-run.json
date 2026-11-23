@@ -1,0 +1,26 @@
+{
+  "format": "makefun-run/1",
+  "prompt": {
+    "text": "Create a one-line entry for the Hire Me In One Line bounty on make.fun. Make it sound natural and human. The program should write the line to /output/entry.txt.",
+    "origin": "user",
+    "via": null
+  },
+  "system_prompt": {
+    "status": "uploaded",
+    "why": null
+  },
+  "instructions": {
+    "status": "none",
+    "why": null
+  },
+  "mcp_servers": [],
+  "declared": {
+    "harness": "grok",
+    "harness_version": "4.7",
+    "provider": "xai",
+    "model": "grok-4",
+    "reasoning_effort": "high",
+    "notes": "Handed over from Grok chat session"
+  },
+  "context": []
+}

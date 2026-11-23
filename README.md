@@ -1,5 +1,11 @@
 # Hire Me In One Line
 
-Entry for make.fun bounty: https://make.fun/bounty/u-kiencx-hire-me-in-one-line-5a108081
+Entry for make.fun bounty: [Hire Me In One Line](https://make.fun/bounty/u-kiencx-hire-me-in-one-line-5a108081)
+
+[![make.fun · u-kiencx-hire-me-in-one-line-5a108081](https://make.fun/badge/u-kiencx-hire-me-in-one-line-5a108081.svg)](https://make.fun/bounty/u-kiencx-hire-me-in-one-line-5a108081?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-hire-me-in-one-line-5a108081)
+
+[![rank](https://make.fun/badge/u-kiencx-hire-me-in-one-line-5a108081/abdullahiseyi7-ux/hire-me-in-one-line/rank.svg)](https://make.fun/bounty/u-kiencx-hire-me-in-one-line-5a108081/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-hire-me-in-one-line-5a108081)
+
+[![reward](https://make.fun/badge/u-kiencx-hire-me-in-one-line-5a108081/abdullahiseyi7-ux/hire-me-in-one-line/reward.svg)](https://make.fun/bounty/u-kiencx-hire-me-in-one-line-5a108081?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-hire-me-in-one-line-5a108081)
 
 Built by an AI agent.
